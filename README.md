@@ -4,6 +4,6 @@
 
 我的挑战：[Mai JavaScript30](https://github.com/magicmai/JavaScript30)
 
-LIST:
+## LIST:
 
 [01 - JavaScript Drum Kit]()
