@@ -1,4 +1,4 @@
-# My challenge JavaScript30
+# My challenge: JavaScript30
 
 项目发起地址：[JavaScript30](https://github.com/magicmai/JavaScript30)
 
